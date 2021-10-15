@@ -35,7 +35,6 @@ The two metrics that I will be using are **total profit and return on investment
 I will then slice out the top 500 movies as that is roughly the top quartile for this dataset.
 **These movies would be good for Microsoft to emulate as we want to be as successful as possible.**
 
-images/microsoft_movie_analysis_1
 
 **Justifying My Sample Size:**
 
@@ -49,9 +48,7 @@ While production budgets are currently trending up, the data that I have should 
 
 Note: Since a movie can have multiple genres, I will do value counts for each of the 3 genre columns, and then do value counts to determine how many times each genre is associated with each dataset.
 
-images/project_1_bar_4
-images/project_1_bar_3
-images/project_1_bar_2
+
 
 # Recommendations:
 ## Microsoft Should Focus on Animation and Adventure
@@ -64,7 +61,6 @@ images/project_1_bar_2
 - Ranked Second in both break-even rate and Top 500 rate.
 - However, they have a higher average budget and lower average profit than Animation.
 
-images/project_1_scatter_1
 
 **Budget**
 
