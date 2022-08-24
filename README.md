@@ -1,4 +1,5 @@
-# dsc-phase-1-project
+# Exploratory Data Analysis of Movies
+
 # Summary
 I was tasked with researching movies to see what types of movies are currently being made and using that information to make recommendations to Microsoft as to what types of movies to make with their new production studio.
 
